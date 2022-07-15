@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+		<title>Seth Pyle Resume</title>
+    <link rel="stylesheet" href="style.css"/> <!--Will be used to link CSS -->
+    <script src="javascript.js"></script><!--Will be used to link javascript.js -->
+	</head>
+  <body> 
+<div>
+    <h1 style="text-align:center ;">Seth Pyle</h1> <!--Center Name-->
+</div>
+<div>
+      <h2>Education:</h2>
+</div>
+<p1>University of Texas at El Paso</p1><br>
+    <br>Master of Science: Intelligence and National Security Studies<br>
+ <div class="utep"> 
+    <ul> <!--Creates bulleted list of education details-->
+        <li>Served as the president of Students in Intelligence and National Security (SINS) 2016-2017</li>
+        <li>Participated in Arabic immersion programs at the University of Wisconsin, Madison and Meknes, Morocco.</li>
+        <li>Competed in the Atlantic Council’s Cyber 9/12 Student Challenge in Washington DC</li>
+        <li>Certified training in I-2 Analyst’s Notebook as well as Reuser’s Pathfinder OSINT collection training/certification</li>
+        <li>Participated in analytical exercises facilitated by the Central Intelligence Agency and the National Counter-Terrorism
+        Center</li><br>
+     </uL>
+ </div>
+ <div>
+    <p2>University of Northern Iowa</p2>
+ </div>
+ <div class="uni">
+    <ul>
+      <p3>BA Spanish Language and Culture<p3>
+      <br>BA French Language and Culture<br>
+      <br>
+      <li>Member of Sigma Delta Pi, Spanish Honors Society</li>
+      <li>Graduated with honors from the CIDEF Semester immersion program in Angers, France</li>
+      <li>Graduated with honors from the CISPA Summer/semester immersion program in Arica, Chile</li>
+    </ul>
+ </div>
+
+ <hr>
+    
+      <h2>Employment History:<h2>
+<div class="employment">
+    <ul>
+           <p4>UPS Store: Store Manager: Current</p4><br>
+           <br>
+           <li>Process packages for shipping in accordance with domestic and international law</li>
+           <li>Address and correct any staffing issues to ensure employee satisfation 
+            while maintaining location efficacy</li>
+           <li>Conduct a variety of background checks to verify clients' backgrounds, finger prints and documentation</li>
+           <li>Providing Certified Notary services to guests of the store</li>
+    </ul>
+    <ul>
+        <p5>Gray Fox Coffee and Wine: Supervisor: 2017-2020</p5><br>
+        <br>
+           <li>Took weekly inventory of bar products to ensure pars are accurate and orders are placed</li>
+           <li>Settled any scheduling issues between evening staff to ensure customers are being served efficiently</li>
+           <li>Supervises evening staff to ensure food safety standards are being practiced to the highest degree</li>
+           <li>Meet regularly with the general manager to discuss improvements we can make to maximize satisfaction of both our
+            customers and staff</li>
+    </ul>
+    <ul>
+        <p6>AmeriCorps State and National: Opportunity Navigator: 2016-2017</p6><br>
+        <br>
+          <li>Facilitated job search and resume building services to the Latino population in the Twin Cities area</li>
+          <li>Utilized professional level Spanish fluency to bridge the gap between employers and English language learners</li>
+          <li>Facilitated classes that covered entry level computer skills to students both in English and Spanish. Topics included: internet navigation,
+            Microsoft Word, and Excel</li>
+    </ul>
+    <ul>
+        <p7>Historic Park Inn: Bartender: 2012-2016</p7><br>
+        <br>
+          <li>Demonstrated an encyclopedic knowledge of cocktails and how they are made or customized</li>
+          <li>Created a safe and fun environment to bar guests</li>
+          <li>Provided historical information regarding the life of Frank Lloyd Wright
+            and the history of the Historic Park Inn as a Mason City landmark</li>
+     </ul>
+</div>
+<div id="hideaway" style="display:none;">Here's the hidden content
+
+</div>
+<a href="https://imgur.com/gallery/BITWyRt">Click here to see my dog!</a>
+
+<div class="footer">
+      <h6>copywrite Seth Pyle 2022</h6>
+</div>
+    
+</div>
+  </body>
+</html>
